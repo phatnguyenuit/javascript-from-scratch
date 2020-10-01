@@ -1,5 +1,5 @@
-# nodejs-workspace-template
-NodeJS workspace template
+# javascript-from-scratch
+Build things in JavaScript from scratch
 
 
 ## References
